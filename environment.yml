@@ -4,5 +4,9 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
+  - pandas
   - numpy
   - matplotlib
+  - seaborn
+  - scipy
+  
